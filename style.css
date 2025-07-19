@@ -18,7 +18,8 @@ body{
     border-radius: 10px;
     background-color: #F2DFE2;
     box-shadow:0 0 1px #F2DFE2;
-    width: 340px;
+    width: 70%;
+    max-width: 340px;
     height: 501px;
     margin-top: 10px;
     margin-right: auto;
